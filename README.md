@@ -8,7 +8,7 @@
 ## For more details see GitHub Enjin.
 ## Para mais detalhes visite GutHub Enjin.
 ## <img src="https://media.discordapp.net/attachments/432702330115457045/435840621291372556/00001.jpg"/>
-## <embed src="https://www.youtube.com/watch?v=u2Zyc2J5yiU" autostart="true" loop="true" >
+## <embed src="https://www.youtube.com/watch?v=u2Zyc2J5yiU "autostart="true" loop="true">
 ##  Enjin Theme
 ##  configuration file.
 
