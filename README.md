@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]:twitter.com/xrchox and ![Image](src)
+[Link] twitter.com/xrchox and ![Image](src)
 For more details see GitHub Enjin.
 
 Enjin Theme
