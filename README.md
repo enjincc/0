@@ -4,8 +4,9 @@
 
 ## Precisa de algo? Pergunte.
 
-## [Link](https://github.com/enjincc/enjincc) and ![Image](https://media.discordapp.net/attachments/432702330115457045/435840621291372556/00001.jpg)
+## [Link](https://github.com/enjincc/enjincc) and ![Image]
 ## For more details see GitHub Enjin.
+## <img src="https://media.discordapp.net/attachments/432702330115457045/435840621291372556/00001.jpg"/>
 
 ##  Enjin Theme
 ##  configuration file.
