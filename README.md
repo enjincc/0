@@ -1,14 +1,14 @@
 ## Welcome to Enjin Page
 
-## You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## Bem vindo à pagina do enjin.cc
 
-## Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+## Precisa de algo? Pergunte.
 
-## [Link](twitter.com/xrchox) and ![Image](src)
+## [Link](https://github.com/enjincc/enjincc) and ![Image](src)
 ## For more details see GitHub Enjin.
 
-## ## ## ## Enjin Theme
-## ## ## configuration file.
+##  Enjin Theme
+##  configuration file.
 
-## ## Support or Contact
+## Support or Contact
 ## enjin@github.com or enjin#2432
