@@ -1,10 +1,5 @@
 theme: jekyll-theme-hacker
 title: Welcome to the Enjin homepage!
-description: Sinta-se livre para ficar de olho nas atualizações do meu projeto... :D
+description: ## Sinta-se livre para ficar de olho nas atualizações do meu projeto... :D
 
-<head> 
-<style> 
-h1{color:white} 
-</style> 
-</head> 
-<h1>Sigam-me e eu levarei-vos à Lua</h1>
+
