@@ -1,7 +1,5 @@
 ## Welcome to Enjin Homepage!
 
-## enjin.cc here
-
 ## Hello guys
 
 <script type="text/javascript">
