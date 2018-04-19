@@ -2,6 +2,6 @@
 
 ## JavaScript....... soon
 
-## <script type="text/javascript">
+<script type="text/javascript">
   alert('Olá mundo!');
 </script>
