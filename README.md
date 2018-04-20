@@ -1,3 +1,5 @@
+<span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/xrchox">enjin.cc</a></span>
+
 ## Welcome to Enjin Homepage!
 
 ## Hello guys
